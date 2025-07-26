@@ -1,0 +1,20 @@
+# Maven / Gradle build folders
+target/
+build/
+
+# IDE files
+.idea/
+.project
+.classpath
+.settings/
+
+# OS junk
+*.log
+*.DS_Store
+Thumbs.db
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
